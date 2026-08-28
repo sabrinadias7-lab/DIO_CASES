@@ -86,13 +86,12 @@ Contém uma matriz com os percentuais recomendados de alocação para cada combi
 
 ## 🖼 Capturas de tela
 
-> Adicione aqui prints da planilha em uso (pasta `/images`).
+<img width="1067" height="348" alt="image" src="https://github.com/user-attachments/assets/ed6454e3-94d5-4422-9c54-29967e87e6ee" />
 
-```
-![Configurações e simulação](./images/simulacao.png)
-![Cenários comparativos](./images/cenarios.png)
-![Alocação por perfil](./images/perfil-fii.png)
-```
+<img width="1036" height="432" alt="image" src="https://github.com/user-attachments/assets/072e434c-783c-4bb5-9a1e-b798e0fa2402" />
+
+<img width="1018" height="707" alt="image" src="https://github.com/user-attachments/assets/1eef5d08-1e25-4e89-a6d5-a7e683915701" />
+
 
 ## 🚀 Tecnologias utilizadas
 
